@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlip",
+  "description": "A modern, interactive flashcard learning application for mastering concepts with 3D flip animations, active recall quiz mode, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
