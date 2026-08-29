@@ -1,0 +1,6 @@
+{
+  "name": "LinguaLearn",
+  "description": "A modern, interactive language learning application featuring vocabulary drills, animated flashcards, adaptive quizzes, daily practice, and comprehensive progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
