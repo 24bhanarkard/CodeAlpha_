@@ -1,0 +1,6 @@
+{
+  "name": "QuoteFlow",
+  "description": "A modern, responsive Random Quote Generator with smooth transitions, curated quotes, dark mode, and favorites management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
